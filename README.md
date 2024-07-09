@@ -1,1 +1,1 @@
-# odin-recipes
+This project is an assignment given for the purpose of practicing newly acquired HTML skills which I learnt for The Odin project's curriculum. It is a small website which consist of webpages that contains the ingredients and steps used in preparing some of my favourite meals.
