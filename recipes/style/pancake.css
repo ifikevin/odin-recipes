@@ -1,0 +1,48 @@
+h1 {
+    background-color: #ff3300;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#id-1 {
+    background-color: #66ffcc;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    text-emphasis: none;
+}
+
+.first-class {
+    background-color: #cc00ff;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 400;
+    height: auto;
+    width:  500px;
+}
+
+.first-class .second-class {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.second-class .third-class {
+    color: #ff3300;
+
+}
+
+body {
+    background-color: #4d94ff;
+}
